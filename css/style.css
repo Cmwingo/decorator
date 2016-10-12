@@ -4,8 +4,21 @@ img{
   height: 200px;
   padding: 10px;
 }
-.column{
+.column1{
   width: 320px;
   float:left;
   padding: 15px;
+  background-color: #aadd00
+}
+.column2{
+  width: 320px;
+  float:left;
+  padding: 15px;
+  background-color: #fd1245
+}
+.column3{
+  width: 320px;
+  float:left;
+  padding: 15px;
+  background-color: #b452c1
 }
